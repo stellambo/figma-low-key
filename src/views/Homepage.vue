@@ -19,8 +19,8 @@ export default {
     return {
       // figmaJSON: app,
       figmaConfig: {
-        figmaFile: "",
-        figmaAccessKey: "",
+        figmaFile: "ppOUWhTKkTv1oGxZp2QPrf",
+        figmaAccessKey: "197735-bae0ce50-c4fd-4b30-9334-a0c0044294a0",
       },
       viewModel: {
         /**
